@@ -11,16 +11,16 @@ An Italian startup, Pizzantoo, is encountering challenges in discerning sales tr
 - Determine which pizzas are significantly impacting sales.
 
 ---
-## Approch
+## Approach
 Here are the key steps for making a powefull dashboard for Pzzas sales:
-1) Identify Metrics: Determine the essential metrics to track, such as total revenue, total orders, average order value, and popular pizza types.
-2) Data acquisition: Collect comprehensive data on pizza sales, including sales volumes, customer preferences.
-3) Data cleaning: Remove any missing or incomplete data, and ensure that the data is in a format that can be easily analyzed.
-4) Design Layout: Create an intuitive and visually appealing layout for the dashboard, ensuring easy navigation and understanding of data.
-5) Data visualization: Utilize charts, graphs, and tables to effectively visualize sales trends, peak sales days, popular pizza types, and other key insights.
-6) DAX Queries: Develop DAX (Data Analysis Expressions) queries to calculate complex metrics and perform advanced data analysis, such as year-over-year growth, rolling averages, and customer segmentation
-7) Implement Interactivity: Incorporate interactive features like filters and drill-down capabilities to allow users to explore data and gain deeper insights.
-8) Ensure Accessibility: Ensure the dashboard is accessible across various devices and platforms, enabling users to access critical sales information anytime, anywhere.
+1) **Identify Metrics:** Determine the essential metrics to track, such as total revenue, total orders, average order value, and popular pizza types.
+2) **Data Acquisition:** Collect comprehensive data on pizza sales, including sales volumes, customer preferences.
+3) **Data Cleaning:** Remove any missing or incomplete data, and ensure that the data is in a format that can be easily analyzed.
+4) **Design Layout:** Create an intuitive and visually appealing layout for the dashboard, ensuring easy navigation and understanding of data.
+5) **Data Visualization:** Utilize charts, graphs, and tables to effectively visualize sales trends, peak sales days, popular pizza types, and other key insights.
+6) **DAX Queries:** Develop DAX (Data Analysis Expressions) queries to calculate complex metrics and perform advanced data analysis, such as year-over-year growth, rolling averages, and customer segmentation
+7) **Implement Interactivity:** Incorporate interactive features like filters and drill-down capabilities to allow users to explore data and gain deeper insights.
+8) **Ensure Accessibility:** Ensure the dashboard is accessible across various devices and platforms, enabling users to access critical sales information anytime, anywhere.
 
 ---
 ## Dashboard Overview
