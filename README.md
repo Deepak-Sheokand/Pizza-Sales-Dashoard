@@ -101,6 +101,12 @@ Here are the key steps for making a powefull dashboard for Pzzas sales:
 - **The Classic Deluxe Pizza** contributes to maximum Total Quantity, Total Orders.
 - **The Brie Carre Pizza** contributes to minimum Revenue, Total Quantity, Total Orders.
 
+---
+
+## Author
+
+[**Deepak Sheokand**](https://www.linkedin.com/in/deepak-sheokand-0a0833272/)
+
 
 
 
