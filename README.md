@@ -23,6 +23,7 @@ Here are the key steps for making a powefull dashboard for Pzzas sales:
 8) **Ensure Accessibility:** Ensure the dashboard is accessible across various devices and platforms, enabling users to access critical sales information anytime, anywhere.
 
 ---
+
 ## Dashboard Overview
 
 ### KPI's Metrics
