@@ -104,6 +104,10 @@ Here are the key steps for making a powefull dashboard for Pzzas sales:
 
 ---
 
+## Thank you for your attention and interest in my Pizza Sales Dashboard Report.
+
+---
+
 ## Data Analyst
 
 [**Deepak Sheokand**](https://www.linkedin.com/in/deepak-sheokand-0a0833272/)
