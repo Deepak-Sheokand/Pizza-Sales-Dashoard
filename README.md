@@ -104,7 +104,7 @@ Here are the key steps for making a powefull dashboard for Pzzas sales:
 
 ---
 
-## Author
+## Data Analyst
 
 [**Deepak Sheokand**](https://www.linkedin.com/in/deepak-sheokand-0a0833272/)
 
